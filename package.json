@@ -1,0 +1,17 @@
+{
+  "name": "obsidian-reflective-journal-plugin",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs --watch",
+    "build": "node esbuild.config.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.17.0",
+    "obsidian": "latest",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.33.1"
+  }
+}

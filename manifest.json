@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-reflective-journal-plugin",
+    "name": "Reflective Journal Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "A plugin that helps you reflect by calling Anthropic's Claude API for journaling prompts.",
+    "author": "Your Name",
+    "authorUrl": "https://yourwebsite.com",
+    "isDesktopOnly": false
+  }
